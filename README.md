@@ -1,0 +1,4 @@
+- hi im eh
+- my real name is nathaniel but you can call me eh
+- i like to do js, html, and css
+- i can do client-side and server-side development
